@@ -13,7 +13,7 @@ SQL_DIRECTORY=~/Desktop/test  # SQL 파일들이 있는 디렉터리 경로
 export PGPASSWORD=$DB_PASSWORD
 
 SQL_FILES=("card_feature.sql" "profile_image.sql" "member_account.sql" 
-"room_info.sql" "studio_post.sql" "dormitory_post.sql" "room_image.sql" "view_post.sql")
+"room_info.sql" "studio_post.sql" "dormitory_post.sql" "room_image.sql" "view_post.sql" "participation")
 
 # 트랜잭션 시작
 echo "BEGIN;" > $SQL_DIRECTORY/transaction.sql
