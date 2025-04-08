@@ -1,11 +1,11 @@
 DB_NAME=maru
-DB_USER=cheesecrust # 데이터베이스 사용자 이름
+DB_USER= # 데이터베이스 사용자 이름
 # local : maru
 DB_HOST=mydatabase.c3kmc4wcyz81.ap-northeast-2.rds.amazonaws.com  # 로컬에서 실행할 경우 'localhost'로 설정 
 # localhoat : localhost
 DB_PORT=5432  
 # 기본 포트는 5432
-DB_PASSWORD=0810jack
+DB_PASSWORD=
 # local : 0810
 SQL_DIRECTORY=~/Desktop/test  # SQL 파일들이 있는 디렉터리 경로
 
