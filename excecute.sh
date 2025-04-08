@@ -1,7 +1,7 @@
 DB_NAME=maru
 DB_USER= # 데이터베이스 사용자 이름
 # local : maru
-DB_HOST=mydatabase.c3kmc4wcyz81.ap-northeast-2.rds.amazonaws.com  # 로컬에서 실행할 경우 'localhost'로 설정 
+DB_HOST=  # 로컬에서 실행할 경우 'localhost'로 설정 
 # localhoat : localhost
 DB_PORT=5432  
 # 기본 포트는 5432
